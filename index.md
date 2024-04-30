@@ -11,5 +11,5 @@
 
 
 <ul>
-<li><a href="https://coretectoolsengcivil.streamlit.app/" target="_blank">Módulo de engenharia Civil</a></li>
+<li><a href="https://coretectoolsengcivil.streamlit.app/" target="_blank">Módulo de Engenharia Civil</a></li>
 </ul>
