@@ -14,7 +14,7 @@
 </ul>
 
 <p align="justify">
-Caso tenha alguma dúvida ou sugestão, entre em contato conosco através do email: <a href="wanderlei_junior@ufcat.edu.br" target="_blank">wanderlei_junior@ufcat.edu.br</a>
+Caso tenha alguma dúvida ou sugestão, entre em contato conosco através do nosso <a href="mailto:wanderlei_junior@ufcat.edu.br">e-mail</a>.
 </p>
 
 <h4><i>Disclaimer</i></h4>
