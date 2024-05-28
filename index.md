@@ -9,10 +9,13 @@
   </tr>
 </table> 
 
-
 <ul>
 <li><a href="https://coretectoolsengcivil.streamlit.app/" target="_blank">Módulo de Engenharia Civil</a></li>
 </ul>
+
+<p align="justify">
+Caso tenha alguma dúvida ou sugestão, entre em contato conosco através do email: <a href="wanderlei_junior@ufcat.edu.br" target="_blank">wanderlei_junior@ufcat.edu.br</a>
+</p>
 
 <h4><i>Disclaimer</i></h4>
 <p align="justify">
