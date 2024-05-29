@@ -19,7 +19,7 @@ Caso tenha alguma dúvida ou sugestão, entre em contato conosco através do nos
 
 <h4><i>Disclaimer</i></h4>
 <p align="justify">
-A ferramenta Coretec Tools tem como objetivo servir de apoio para estudantes e profissionais da área. As informações, cálculos e modelos apresentados são baseados em dados teóricos e normas técnicas vigentes. No entanto, a precisão e a aplicabilidade das informações fornecidas podem variar de acordo com o contexto específico de cada projeto ou situação.<br>
-A plataforma não se responsabiliza por eventuais erros, omissões ou interpretações equivocadas das informações aqui apresentadas. É de responsabilidade do usuário verificar e validar todos os dados.<br>
+A ferramenta Coretec Tools tem como objetivo servir de apoio para estudantes e profissionais da área. As informações, cálculos e modelos apresentados são baseados em dados teóricos e normas técnicas vigentes. No entanto, a precisão e a aplicabilidade das informações fornecidas podem variar de acordo com o contexto específico de cada projeto ou situação.<br><br>
+A plataforma não se responsabiliza por eventuais erros, omissões ou interpretações equivocadas das informações aqui apresentadas. É de responsabilidade do usuário verificar e validar todos os dados.<br><br>
 O uso desta ferramenta não substitui o julgamento profissional, a experiência prática ou o acompanhamento técnico necessário para a execução de projetos. O usuário assume total responsabilidade pelo uso das informações fornecidas e pelos resultados obtidos a partir desta ferramenta.
 </p>
