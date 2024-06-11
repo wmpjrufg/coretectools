@@ -12,6 +12,9 @@
 <ul>
 <li><a href="https://coretectoolsengcivil.streamlit.app/" target="_blank">Módulo de Engenharia Civil</a></li>
 </ul>
+<ul>
+<li><a href="https://coretectoolsquimica.streamlit.app/" target="_blank">Módulo de Química</a></li>
+</ul>
 
 <p align="justify">
 Caso tenha alguma dúvida ou sugestão, entre em contato conosco através do nosso <a href="mailto:wanderlei_junior@ufcat.edu.br">e-mail</a>.
